@@ -12,3 +12,11 @@ Usa un bucle forof para recorrer todos los destinos del array. Imprime en un ***
 
 //Iteración #4: Probando For...in**
 Usa un **for...in** para imprimir por consola los datos del alienígena..
+
+//Iteración #5: Probando For**
+Usa un bucle **for** para recorrer todos los destinos del array y elimina los elementos que tengan el id 11 y 40. Imprime en 
+un ***console log*** el array.
+
+
+//Iteración #6: Mixed For...of e includes**
+Usa un bucle **for...of** para recorrer todos los juguetes y elimina los que incluyan la palabra gato. Recuerda que puedes usar la función ***.includes()*** para comprobarlo.
