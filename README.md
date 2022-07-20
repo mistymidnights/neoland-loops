@@ -9,3 +9,6 @@ a true o false en consecuencia. Una vez lo tengas compruébalo con un ***console
 
 ///Iteración #3: Probando For...of
 Usa un bucle forof para recorrer todos los destinos del array. Imprime en un ***console.log*** sus valores.
+
+//Iteración #4: Probando For...in**
+Usa un **for...in** para imprimir por consola los datos del alienígena..
