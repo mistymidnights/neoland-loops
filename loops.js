@@ -52,7 +52,10 @@ const alien = {
     weight: '259kg'
 }
 
-for (let items in alien) {
-        console.log(alien)
-    
+    for (const key in alien) {
+        if (alien.hasOwnProperty.call(alien, key)) {
+            const element = alien[key];
+        }
+    }
 
+    console.log(alien)
